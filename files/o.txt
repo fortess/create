@@ -1,1 +1,1 @@
-[{"term":"Hello world!","definition":null,"context":"","term_plural":"","reference":"","comment":""}]
+[{"term":"Hello world!","definition":"hi","context":"","term_plural":"","reference":"","comment":""}]
